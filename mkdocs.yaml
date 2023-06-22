@@ -2,9 +2,12 @@
 
 site_name: MkDocs Documentation
 site_description: Documentation for projects and infrastructure of jakoberpf
+site_author: Jakob Boghdady
 site_url: https://jakoberpf.github.io/docs/
 
+repo_name: jakoberpf/docs
 repo_url: https://github.com/jakoberpf/docs/
+
 edit_uri: edit/main/docs/
 
 ### Build settings ###
