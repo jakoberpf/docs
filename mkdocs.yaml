@@ -1,0 +1,23 @@
+### Site metadata ###
+
+site_name: MkDocs Documentation
+site_description: Documentation for projects and infrastructure of jakoberpf
+site_url: https://jakoberpf.github.io/docs/
+
+repo_url: https://github.com/jakoberpf/docs
+edit_uri: edit/main
+
+### Build settings ###
+
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  # - About MkDocs: about-mkdocs.md
+  # - Tutorial:
+  #     - TL;DR: tutorial/tldr.md
+  #     - Installation: tutorial/installation.md
+  #     - Set up project: tutorial/setup-project.md
+  #     - Advanced: tutorial/advanced.md
+  #     - Usage: tutorial/usage.md
+  #     - Deploy: tutorial/deploy.md
